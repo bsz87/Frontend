@@ -1,4 +1,4 @@
-def imageName="bsz87/docker_registry/frontend"
+def imageName="bsz87/frontend"
 def dockerTag=""
 
 def dockerRegistry=""
